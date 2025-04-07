@@ -72,3 +72,55 @@ mid exam web programming
 </div>
 </body>
 </html>
+* { 
+    background-color: darkgrey;
+    margin: 10px;
+    padding: 40px;
+}
+header h1 {
+    background-color: skyblue;
+    font: 100;
+}
+header nav ul {
+    background-color: rgb(214, 132, 177);
+
+}
+header nav ul li {
+    background-color: black;
+}.introduction {
+    background-color:rgb(206, 118, 132) ;
+}
+.flex-container{
+    display: flex;
+    text-align: center;
+    flex-basis: auto ;
+    grid-template-rows: auto;
+    grid-template-columns: auto;
+
+}
+.flex-items{
+    display: flexbox;
+    flex: justify;
+    
+}
+section {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+}
+.whatwedo {
+background-color:rgb(204, 154, 166)
+}
+div {
+    text-align: center;
+    padding: auto;
+    border: 10px;
+    border-color: brown;
+}
+.ourportfolio {
+    image-resolution: 20px
+}
+.ourportfolio p {
+    text-align: justify;
+    color: black;
+}
